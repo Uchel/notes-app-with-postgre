@@ -1,0 +1,6 @@
+contohSchema.txt
+node_modules
+package_npm.txt
+.env
+.prod.env
+contoh_DB_migrate.txt
